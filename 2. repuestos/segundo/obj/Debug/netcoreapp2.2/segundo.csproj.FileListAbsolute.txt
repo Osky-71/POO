@@ -1,0 +1,10 @@
+C:\Users\oscar\source\repos\segundo\segundo\bin\Debug\netcoreapp2.2\segundo.deps.json
+C:\Users\oscar\source\repos\segundo\segundo\bin\Debug\netcoreapp2.2\segundo.runtimeconfig.json
+C:\Users\oscar\source\repos\segundo\segundo\bin\Debug\netcoreapp2.2\segundo.runtimeconfig.dev.json
+C:\Users\oscar\source\repos\segundo\segundo\bin\Debug\netcoreapp2.2\segundo.dll
+C:\Users\oscar\source\repos\segundo\segundo\bin\Debug\netcoreapp2.2\segundo.pdb
+C:\Users\oscar\source\repos\segundo\segundo\obj\Debug\netcoreapp2.2\segundo.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\segundo\segundo\obj\Debug\netcoreapp2.2\segundo.AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\segundo\segundo\obj\Debug\netcoreapp2.2\segundo.AssemblyInfo.cs
+C:\Users\oscar\source\repos\segundo\segundo\obj\Debug\netcoreapp2.2\segundo.dll
+C:\Users\oscar\source\repos\segundo\segundo\obj\Debug\netcoreapp2.2\segundo.pdb

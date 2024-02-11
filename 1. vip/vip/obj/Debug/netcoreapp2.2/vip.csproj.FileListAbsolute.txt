@@ -1,0 +1,11 @@
+C:\Users\oscar\source\repos\vip\vip\bin\Debug\netcoreapp2.2\vip.deps.json
+C:\Users\oscar\source\repos\vip\vip\bin\Debug\netcoreapp2.2\vip.runtimeconfig.json
+C:\Users\oscar\source\repos\vip\vip\bin\Debug\netcoreapp2.2\vip.runtimeconfig.dev.json
+C:\Users\oscar\source\repos\vip\vip\bin\Debug\netcoreapp2.2\vip.dll
+C:\Users\oscar\source\repos\vip\vip\bin\Debug\netcoreapp2.2\vip.pdb
+C:\Users\oscar\source\repos\vip\vip\obj\Debug\netcoreapp2.2\vip.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\vip\vip\obj\Debug\netcoreapp2.2\vip.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\vip\vip\obj\Debug\netcoreapp2.2\vip.AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\vip\vip\obj\Debug\netcoreapp2.2\vip.AssemblyInfo.cs
+C:\Users\oscar\source\repos\vip\vip\obj\Debug\netcoreapp2.2\vip.dll
+C:\Users\oscar\source\repos\vip\vip\obj\Debug\netcoreapp2.2\vip.pdb
